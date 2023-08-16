@@ -1,0 +1,16 @@
+2023-08-12 01:28:22.5555 INFO Here is info message from the controller
+2023-08-12 01:28:22.6432 WARN Here is warn message from the controller
+2023-08-12 01:28:22.6432 DEBUG Here is debug message from the controller
+2023-08-12 01:28:22.6432 ERROR Here is error message from the controller
+2023-08-12 01:30:48.2746 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2023-08-12 01:35:19.7694 INFO Here is info message from the controller
+2023-08-12 01:35:20.6245 WARN Here is warn message from the controller
+2023-08-12 01:35:20.6245 DEBUG Here is debug message from the controller
+2023-08-12 01:35:20.6245 ERROR Here is error message from the controller
+2023-08-12 01:36:07.2026 INFO Returned all owners from database
+2023-08-12 01:36:29.2137 INFO Returned all owners from database
+2023-08-12 01:37:14.8345 INFO Here is info message from the controller
+2023-08-12 01:37:14.9054 WARN Here is warn message from the controller
+2023-08-12 01:37:14.9054 DEBUG Here is debug message from the controller
+2023-08-12 01:37:14.9054 ERROR Here is error message from the controller
+2023-08-12 01:38:55.4080 INFO Returned all owners from database

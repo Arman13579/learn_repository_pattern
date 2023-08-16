@@ -1,0 +1,15 @@
+D:\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+D:\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll

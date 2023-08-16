@@ -1,0 +1,17 @@
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.dll
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.dll
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\Contracts.pdb
+D:\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.pdb
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

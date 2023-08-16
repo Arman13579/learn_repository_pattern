@@ -1,0 +1,39 @@
+2023-08-11 22:46:47.6638 INFO Here is info message from the controller
+2023-08-11 22:46:47.7370 WARN Here is warn message from the controller
+2023-08-11 22:46:47.7370 DEBUG Here is debug message from the controller
+2023-08-11 22:46:47.7370 ERROR Here is error message from the controller
+2023-08-11 22:48:43.3780 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 22:49:20.1250 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 22:49:26.4813 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 22:52:13.9735 INFO Here is info message from the controller
+2023-08-11 22:52:14.0205 WARN Here is warn message from the controller
+2023-08-11 22:52:14.0205 DEBUG Here is debug message from the controller
+2023-08-11 22:52:14.0205 ERROR Here is error message from the controller
+2023-08-11 22:52:41.5784 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 22:54:41.7048 INFO Here is info message from the controller
+2023-08-11 22:54:41.7901 WARN Here is warn message from the controller
+2023-08-11 22:54:41.7901 DEBUG Here is debug message from the controller
+2023-08-11 22:54:41.7901 ERROR Here is error message from the controller
+2023-08-11 22:55:27.4057 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 22:59:30.4926 INFO Here is info message from the controller
+2023-08-11 22:59:30.5349 WARN Here is warn message from the controller
+2023-08-11 22:59:30.5349 DEBUG Here is debug message from the controller
+2023-08-11 22:59:30.5349 ERROR Here is error message from the controller
+2023-08-11 22:59:50.1152 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 23:16:36.6151 INFO Here is info message from the controller
+2023-08-11 23:16:36.7083 WARN Here is warn message from the controller
+2023-08-11 23:16:36.7083 DEBUG Here is debug message from the controller
+2023-08-11 23:16:36.7083 ERROR Here is error message from the controller
+2023-08-11 23:16:57.2313 ERROR Something went wrong inside GetAllOwners action: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2023-08-11 23:18:17.2417 INFO Here is info message from the controller
+2023-08-11 23:18:17.2852 WARN Here is warn message from the controller
+2023-08-11 23:18:17.2994 DEBUG Here is debug message from the controller
+2023-08-11 23:18:17.2994 ERROR Here is error message from the controller
+2023-08-11 23:18:27.4570 ERROR Something went wrong inside GetAllOwners action: Unable to cast object of type 'System.String' to type 'System.Guid'.
+2023-08-11 23:23:12.5384 INFO Here is info message from the controller
+2023-08-11 23:23:12.6319 WARN Here is warn message from the controller
+2023-08-11 23:23:12.6319 DEBUG Here is debug message from the controller
+2023-08-11 23:23:12.6319 ERROR Here is error message from the controller
+2023-08-11 23:23:26.2657 INFO Returned all owners from database
+2023-08-11 23:23:39.7974 INFO Returned all owners from database
+2023-08-11 23:28:10.2053 INFO Returned all owners from database
