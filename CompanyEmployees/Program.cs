@@ -21,6 +21,7 @@ builder.Services.ConfigureLoggerService(); // ConfigureLoggerService() must be a
 builder.Services.ConfigureSqlContext(builder.Configuration); // ConfigureLoggerService() must be added before AddControllers()
 builder.Services.ConfigureRepositoryWapper();
 builder.Services.AddControllers();
+builder.Services.AddAutoMapper(typeof(Program));
 
 //for logger service
 

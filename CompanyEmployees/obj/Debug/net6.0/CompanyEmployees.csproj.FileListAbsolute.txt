@@ -75,3 +75,5 @@ D:\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\refint\CompanyEmployees.dl
 D:\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.pdb
 D:\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.genruntimeconfig.cache
 D:\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\ref\CompanyEmployees.dll
+D:\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
+D:\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

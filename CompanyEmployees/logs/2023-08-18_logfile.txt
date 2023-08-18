@@ -1,0 +1,38 @@
+2023-08-18 00:28:54.1311 INFO Here is info message from the controller
+2023-08-18 00:28:54.1977 WARN Here is warn message from the controller
+2023-08-18 00:28:54.1977 DEBUG Here is debug message from the controller
+2023-08-18 00:28:54.1977 ERROR Here is error message from the controller
+2023-08-18 00:29:23.5170 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-08-18 00:30:45.5272 ERROR Owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641901 has't been found in db.
+2023-08-18 00:57:56.6647 INFO Here is info message from the controller
+2023-08-18 00:57:56.7542 WARN Here is warn message from the controller
+2023-08-18 00:57:56.7542 DEBUG Here is debug message from the controller
+2023-08-18 00:57:56.7542 ERROR Here is error message from the controller
+2023-08-18 00:58:35.4422 INFO Returned all owners from database
+2023-08-18 00:58:52.1080 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-08-18 00:59:11.1887 INFO Returned Owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-08-18 00:59:42.5493 INFO Returned Owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-08-18 11:42:06.8787 INFO Here is info message from the controller
+2023-08-18 11:42:06.9293 WARN Here is warn message from the controller
+2023-08-18 11:42:06.9293 DEBUG Here is debug message from the controller
+2023-08-18 11:42:06.9293 ERROR Here is error message from the controller
+2023-08-18 11:42:27.1331 INFO Returned Owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2023-08-18 15:26:31.1609 INFO Here is info message from the controller
+2023-08-18 15:26:31.2505 WARN Here is warn message from the controller
+2023-08-18 15:26:31.2505 DEBUG Here is debug message from the controller
+2023-08-18 15:26:31.2505 ERROR Here is error message from the controller
+2023-08-18 15:28:44.6912 INFO Here is info message from the controller
+2023-08-18 15:28:44.7254 WARN Here is warn message from the controller
+2023-08-18 15:28:44.7254 DEBUG Here is debug message from the controller
+2023-08-18 15:28:44.7254 ERROR Here is error message from the controller
+2023-08-18 15:31:39.1452 INFO Returned Owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2023-08-18 15:32:44.5800 INFO Returned all owners from database
+2023-08-18 15:39:53.4377 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreationDto -> OwnerDto
+Entities.DataTransferObjects.OwnerForCreationDto -> Entities.DataTransferObjects.OwnerDto
+2023-08-18 16:15:54.5819 INFO Here is info message from the controller
+2023-08-18 16:15:54.7029 WARN Here is warn message from the controller
+2023-08-18 16:15:54.7029 DEBUG Here is debug message from the controller
+2023-08-18 16:15:54.7066 ERROR Here is error message from the controller
